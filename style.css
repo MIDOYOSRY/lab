@@ -50,7 +50,7 @@ section{
   min-height:100vh;
   display: flex;
   align-items: center;
-  background:url(bmw-3\ cs.jpg) no-repeat;
+  background:url(bmw\ m4\ front.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -74,7 +74,7 @@ section{
 }
 
 .main h3{
-color: gold;
+color: greenyellow;
 font-size: 2em;
 font-weight: 700;
 letter-spacing: 1px;
